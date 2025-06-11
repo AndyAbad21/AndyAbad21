@@ -17,7 +17,7 @@
 <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="30">
 <img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="30">
-<img src="" alt="CSS" height="30">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="CSS" height="30">
 </div>
 
 ### Frameworks y herramientas
