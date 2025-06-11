@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e53096c9-5298-4341-905c-1f0f88d65dca)<h1 align="center">¡Hola! 👋 Soy AndyDev</h1>
+<h1 align="center">¡Hola! 👋 Soy AndyDev</h1>
 
 <p align="center">
   <b>Desarrollador fullstack</b> con pasión por resolver problemas y construir soluciones efectivas. Siempre aprendiendo y explorando nuevas tecnologías.
@@ -9,7 +9,7 @@
 ## 🧠 Tecnologías que manejo
 
 ### Lenguajes
-<div style="display: flex; gap: 30px;">
+<div style="display: flex; gap: 30px;background-color: white; padding: 10px;">
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="80">
   <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="140">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="110">
@@ -20,11 +20,11 @@
 </div>
 
 ### Frameworks y herramientas
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 30px;">
   <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="Flutter" height="80">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhfGTouqSQ-fx7PRXaFI-Q.png" alt="Angular" height="140">
   <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="110">
-  <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="11
+  <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="11">
 </div>
 
 ---
