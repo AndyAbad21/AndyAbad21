@@ -16,7 +16,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="30">
 <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="30">
-<img src="" alt="HTML5" height="30">
+<img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="30">
 <img src="" alt="CSS" height="30">
 </div>
 
