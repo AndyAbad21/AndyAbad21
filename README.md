@@ -24,10 +24,10 @@
 ### Frameworks y herramientas
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
   <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="Flutter" height="80">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="Flutter" height="140">
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhfGTouqSQ-fx7PRXaFI-Q.png" alt="Angular" height="140">
-    <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="110">
-    <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="110">
+    <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="140">
+    <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="140">
   </div>
 </div>
 
