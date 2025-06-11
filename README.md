@@ -11,13 +11,13 @@
 ### Lenguajes
 <div style="display: flex; gap: 10px;">
   
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="30">
-<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="60">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="30">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="30">
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="30">
-<img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="30">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="CSS" height="30">
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="60">
+<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="90">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="60">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="60">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="60">
+<img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="60">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="CSS" height="60">
 </div>
 
 ### Frameworks y herramientas
