@@ -14,11 +14,10 @@
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="30">
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="30">
+<img src="https://icon2.cleanpng.com/20180527/kpv/avqvr2qfs.webp" alt="JavaScript" height="30">
 <img src="" alt="" height="30">
 <img src="" alt="" height="30">
 <img src="" alt="" height="30">
-<img src="" alt="" height="30">
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
