@@ -12,7 +12,7 @@
 <div style="display: flex; gap: 10px;">
   
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="30">
-<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="30">
+<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="60">
 <img src="" alt="" height="30">
 <img src="" alt="" height="30">
 <img src="" alt="" height="30">
