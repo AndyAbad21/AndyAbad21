@@ -26,7 +26,7 @@
   <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhfGTouqSQ-fx7PRXaFI-Q.png" alt="Angular" height="120">
     <img src="https://external-preview.redd.it/10-eclipse-plugins-for-java-and-spring-boot-development-v0-IpnwCn6fhlCch4tu4ac3rawrU_jFB9ybZUzMLJH0kMg.jpg?auto=webp&s=e6f42e482d8505e113a9434991f47deb4c4afcfa" alt="Eclipse" height="120">
-    <img src="https://allpcworld.com/wp-content/uploads/2020/06/Download-NetBeans-IDE-2020.png" alt="NetBeans" height="120">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahTNPGc1psg9X-J_8-rLvCETqSXilXPEK-w&s" alt="NetBeans" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJGIF0jAytGunpp_OwBBCB581Q5HMqZozQjD-tfAKMh08FEuMzrgtsQfnsA59Td1lLJI&usqp=CAU" alt="Flutter" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="Docker" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6W30tHWh7GXGaN7cA2dZc5xXQXy_kJTxpU5bbtu5-JTYmFyu2Iftvfx_cVjaHBVdKr0&usqp=CAU" alt="Kubernetes" height="120">
