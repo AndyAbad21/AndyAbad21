@@ -28,6 +28,10 @@
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhfGTouqSQ-fx7PRXaFI-Q.png" alt="Angular" height="140">
     <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="140">
     <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="140">
+    <img src="" alt="Eclipse" height="140">
+    <img src="" alt="NeatBeans" height="140">
+    <img src="" alt="Kubernets" height="140">
+    <img src="" alt="" height="140">
   </div>
 </div>
 
