@@ -1,12 +1,12 @@
-<h1 align="center">¡Hola! 👋 Soy AndyDev</h1>
+<h1 align="center">¡Hola! 👋 Soy AndyDev🐼</h1>
 
 <p align="center">
-  <b>Desarrollador fullstack</b> con pasión por resolver problemas y construir soluciones efectivas. Siempre aprendiendo y explorando nuevas tecnologías.
+  <b>Futuro Ingeniero en Computación</b> con pasión por resolver problemas y construir soluciones efectivas. Siempre aprendiendo y explorando nuevas tecnologías.
 </p>
 
 ---
 
-## 🧠 Tecnologías que manejo
+## 🚀 Tecnologías que manejo
 
 ### Lenguajes
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
@@ -30,7 +30,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJGIF0jAytGunpp_OwBBCB581Q5HMqZozQjD-tfAKMh08FEuMzrgtsQfnsA59Td1lLJI&usqp=CAU" alt="Flutter" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="Docker" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6W30tHWh7GXGaN7cA2dZc5xXQXy_kJTxpU5bbtu5-JTYmFyu2Iftvfx_cVjaHBVdKr0&usqp=CAU" alt="Kubernetes" height="120">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHJBTIHGmZu8G21kpjYViC-DAY50LCSg01Q&s" alt="OpenCV" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsC9Zl9jYsLYXA9lhxDCiJD0Y_PQakXzpzMA&s" alt="PostgreSQL" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnJCqhnWKsG-g5aYx6if1WdboQ79mIMEs7A&s" alt="MySQL" height="120">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTId0KVUlHuJrinDlC22yC7s5c0XmlyVS0qxPTDONyEOYLba3YJ3M1XEnSJQ_OhL-7GLZw&usqp=CAU" alt="MySQLite" height="120">
@@ -38,6 +37,12 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQyKfwMbbWrVs8jD-QNEpn3eNmeW3xQ0eweVqMNgLhKF5-7tuCYyQ-dfg6WrRJ3KnCHak&usqp=CAU" alt="Flask" height="120">
   </div>
 </div>
+
+### Vision por computador
+<div style="background-color: white; padding: 20px; border-radius: 10px;">
+  <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHJBTIHGmZu8G21kpjYViC-DAY50LCSg01Q&s" alt="OpenCV" height="120">
+  </div>
 
 ### Control de versiones
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
@@ -48,8 +53,7 @@
 
 ## 💼 Actualmente...
 
-🚀 Explorando proyectos personales y colaboraciones open source.  
-🧩 Interesado en crear soluciones que mezclen diseño, eficiencia y escalabilidad.  
+🏁 Terminando la carrera de computacion.
 📚 Siempre aprendiendo nuevas herramientas y tecnologías.
 
 ---
@@ -63,5 +67,5 @@
 ---
 
 <p align="center">
-  <em>"Construyendo una línea de código a la vez 💻."</em>
+  <em>"La tecnología es mi herramienta 💻, la curiosidad mi motor."</em>
 </p>
