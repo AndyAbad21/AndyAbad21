@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy AndyDev</h1>
+![image](https://github.com/user-attachments/assets/e53096c9-5298-4341-905c-1f0f88d65dca)<h1 align="center">¡Hola! 👋 Soy AndyDev</h1>
 
 <p align="center">
   <b>Desarrollador fullstack</b> con pasión por resolver problemas y construir soluciones efectivas. Siempre aprendiendo y explorando nuevas tecnologías.
@@ -10,23 +10,21 @@
 
 ### Lenguajes
 <div style="display: flex; gap: 30px;">
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="80">
-<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="140">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="110">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="110">
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="110">
-<img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="110">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="CSS" height="110">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png" alt="Python" height="80">
+  <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="140">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="110">
+  <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="110">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="110">
+  <img src="https://cdn-icons-png.freepik.com/512/5968/5968267.png" alt="HTML5" height="110">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="CSS" height="110">
 </div>
 
 ### Frameworks y herramientas
 <div style="display: flex; gap: 10px;">
-  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+  <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="Flutter" height="80">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*lhfGTouqSQ-fx7PRXaFI-Q.png" alt="Angular" height="140">
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="110">
+  <img src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2015.png" alt="Docker" height="11
 </div>
 
 ---
