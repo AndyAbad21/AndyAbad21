@@ -15,14 +15,9 @@
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuavOOfiTObZOkyvL-_77xIPUxycihgxUkiuh-rm5dCeDZQpkZiW5GNiSrcePQvPG9DHY&usqp=CAU" alt="" height="30">
 <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="JavaScript" height="30">
-<img src="" alt="" height="30">
-<img src="" alt="" height="30">
-<img src="" alt="" height="30">
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="30">
+<img src="" alt="HTML5" height="30">
+<img src="" alt="CSS" height="30">
 </div>
 
 ### Frameworks y herramientas
