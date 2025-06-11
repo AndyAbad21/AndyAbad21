@@ -54,6 +54,7 @@
 ## 💼 Actualmente...
 
 🏁 Terminando la carrera de computacion.
+
 📚 Siempre aprendiendo nuevas herramientas y tecnologías.
 
 ---
